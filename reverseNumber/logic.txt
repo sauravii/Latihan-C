@@ -1,0 +1,8 @@
+Flow logic :
+1. Buat variabel arraynya dan ukurannya serta value nya
+2. Cetak urutan awal dengan looping print seperti biasa
+3. Cetak urutan reverse dengan logic index n-1 dan decrement 
+
+Program baru :
+1. User masukkan angka yang bakal disimpan ke dalam array
+2. Reverse angka yang telah dimasukkan tadi

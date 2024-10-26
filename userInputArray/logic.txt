@@ -1,0 +1,9 @@
+Macro adalah test-case
+
+Flow logicnya adalah :
+1. Buat variabel array dulu dan tentuin panjang lengthnya (int userInput[5])
+2. Buat perulangan sepanjang length (i = 0 ; i < 5 ; i++) untuk mengambil input dari user
+3. Di dalam perulangan buat syntax input untuk menyimpan nilainya ke dalam variabel array dan menyimpannya pada index ke-i (iterasinya)
+4. Buat perulangan untuk mencetak hasil array yang sudah diinput user : 
+   - iterasinya sama kaya perulangan yang pertama
+   - printf element arraynya mengacu ke variabel array dengan index ke-a (iterasi perulangan)
